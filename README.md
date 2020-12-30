@@ -8,9 +8,9 @@ Las carpetas incluyen varios ejemplos:
 
 ## Referencias externas
 ### Grid
-- Explicación del css grid en (w3schools)[https://www.w3schools.com/css/css_grid.asp].
-- Explicación del css grid en (MDN Web Docs)[https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout].
+- Explicación del css grid en [w3schools](https://www.w3schools.com/css/css_grid.asp).
+- Explicación del css grid en [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Grid_Layout).
 
 ### Flexbox
-- Conceptos básicos de flexbox en (MDN Web Docs)[https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox].
+- Conceptos básicos de flexbox en [MDN Web Docs](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Flexible_Box_Layout/Conceptos_Basicos_de_Flexbox).
 - [Juego para practicar](http://flexboxfroggy.com/#es).
